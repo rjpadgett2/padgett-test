@@ -1,2 +1,3 @@
-# padgett-test
-INST377 test
+# Reggie Padgett
+
+This is my repo
